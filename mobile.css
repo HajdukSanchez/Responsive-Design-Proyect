@@ -1,6 +1,7 @@
 /* Developed by Jozek Andrzej Hajduk Sánchez */
 :root {
     --header-color: #f1f1f1;
+    --components-color: #530053;
 }
 
 * {
@@ -13,7 +14,7 @@ html {
     font-size: 62.5%;
 }
 
-.header {
+#header {
     width: 100vw;
     height: 10vh;
     display: flex;
@@ -59,3 +60,65 @@ html {
     display: none;
 }
 
+#main {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#main .text {
+    width: 100%;
+}
+
+.title {
+    padding: 3rem 3rem 0rem 3rem;
+}
+
+#main > .text > .title {
+    font-size: 3rem;
+}
+
+.paragraph {
+    padding: 2rem 3rem 3rem 3rem;
+    text-align: justify;
+}
+
+.paragraph, #started-button .login {
+    font-size: 1.5rem;
+}
+
+#started-button {
+    margin: 0 3rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.started {
+    width: 100%;
+    height: 5rem;
+    order: 1;
+    border: 0.1rem solid var(--components-color);
+    border-radius: 0.3rem;
+    background-color: var(--components-color);
+    color: white;
+}
+
+#started-button .login {
+    order: 2;
+    width: 100%;
+    padding-top: 1.5rem;
+    padding-bottom: 3rem;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.main-image .image {
+    margin: 1rem 3rem;
+}
+
+.main-image .image img{
+    width: 100%;
+    height: 100%;
+}

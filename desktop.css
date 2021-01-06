@@ -38,3 +38,53 @@
     border-radius: 0.6rem;
     font-weight: lighter;
 }
+
+#main {
+    flex-wrap: nowrap;
+}
+
+#main .text {
+    order: 2;
+    margin: auto 8rem auto 0;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    width: 50%;
+}
+
+#main .title, #main .paragraph {
+    padding: 0;
+    width: 100%;
+    padding: 0 8rem;
+    /* margin: 0 20rem; */
+}
+
+#main > .text > .title {
+    font-size: 8rem;
+}
+
+#main > .text > .paragraph {
+    padding-top: 3rem;
+    width: 100%;
+    padding-right: 25rem;
+}
+
+#main .main-image {
+    order: 1;
+    margin: 8rem;
+    width: 50%;
+}
+
+.main-image .image {
+    margin: 0 3rem 2rem 0;
+}
+
+#started-button {
+    margin-top: 3rem;
+}
+
+#started-button .started {
+    width: 20rem;
+}

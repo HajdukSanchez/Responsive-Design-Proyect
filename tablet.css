@@ -1,4 +1,28 @@
 /* Developed by Jozek Andrzej Hajduk Sánchez */
 :root {
     --header-color: #f1f1f1;
+    --components-color: #530053;
 }
+
+#main .title, #main .paragraph {
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+#main > .text > .title {
+    font-size: 6rem;
+    text-align: left;
+}
+
+#main .paragraph {
+    text-align: left;
+}
+
+#started-button {
+    margin: 0 8rem;
+}
+
+.main-image .image {
+    margin: 1rem 8rem;
+}
+
