@@ -4,6 +4,10 @@
     --components-color: #530053;
 }
 
+.logo img {
+    margin-left: 5rem;
+}
+
 .menu > .nav-image {
     display: none;
 }

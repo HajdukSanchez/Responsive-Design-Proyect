@@ -14,13 +14,17 @@ html {
     font-size: 62.5%;
 }
 
+button, li {
+    cursor: not-allowed;
+}
+
 #header {
     width: 100vw;
     height: 10vh;
     display: flex;
     justify-content: space-between;
     background-color: var(--header-color);
-    border-bottom: 0.1rem solid #cacaca;
+    border-bottom: 0.1rem solid #e4e4e4;
 }
 
 .logo, .menu{
@@ -135,7 +139,7 @@ html {
 }
 
 #footer .title {
-    font-size: 2.4rem;
+    font-size: 3rem;
     text-align: center;
 }
 
@@ -158,6 +162,7 @@ html {
     outline: none;
     color: var(--components-color);
     font-size: 1.8rem;
+    font-weight: 500;
 }
 
 #footer .images-container {
