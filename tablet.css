@@ -26,3 +26,13 @@
     margin: 1rem 8rem;
 }
 
+#footer .images-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#footer .item-image img{
+    /* margin: 0 15rem; */
+    padding: 4rem 3rem;
+}
+
