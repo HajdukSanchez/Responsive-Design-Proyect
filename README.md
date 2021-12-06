@@ -1,17 +1,28 @@
-# Slack Copy
+# Slack home page
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-> Created with the knowledge obtained in "curso definitivo de HTML y CSS" on Platzi
+This was a project created using CSS and HTML, is a personal project using responsive design and mobile first methodology.
 
-### About
+### 🚧 Built With
+Technologies of the project
+* HTML
+* CSS
 
-- I created this Copy of Slack out side the class, with the knowledge obtained there. In this project I learned about some features I didn´t know of HTML and CSS, I created a Mobile-First design that help me to understand how to work responsive design with CSS.
+<!-- CONTACT -->
+## 📫 Contact
 
-### Links
+Jozek Hajduk - hajduksanchez.dev@gmail.com
 
-* [Platzi](https://platzi.com/)
-* [Course](https://platzi.com/clases/html-css/)
+Project Link: [https://github.com/HajdukSanchez/Responsive-Design-Proyect](https://github.com/HajdukSanchez/Responsive-Design-Proyect)
 
-### By
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jozek-hajduk/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HajdukJozek)
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/HajdukSanchez)
 
-Jozek Andrzej Hajduk Sánchez.
-> Appreciate all of your comments to improve my skills
+<br>
+
+<!-- IMAGES -->
+## 📷 Images
+![_D__Platzi_Escuela_Desarrollo_Web_Curso_Definitivo_HTML_CSS_responsive_design_proyect_index html](https://user-images.githubusercontent.com/76627513/144839040-1cdbf54c-5cd6-4199-8ebe-23acbe606bdc.png)
+![Captura de pantalla 2021-12-06 062759](https://user-images.githubusercontent.com/76627513/144839047-f35ade3b-abae-4316-9b6e-22c1658776fa.png)
